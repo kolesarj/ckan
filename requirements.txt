@@ -180,8 +180,7 @@ webtest==1.4.3
     # via
     #   -r requirements.in
     #   pylons
-werkzeug==0.14.1
-    # via flask
+werkzeug==0.15.3          # via flask
 zope.interface==4.3.2
     # via
     #   -r requirements.in
